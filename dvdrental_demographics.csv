@@ -1,0 +1,600 @@
+customer_id;store_id;first_name;address_id;create_date;active;city_id;city;country_id;country
+524;1;Jared;530;2006-02-14;1.0;419;Purwakarta;45;Indonesia
+1;1;Mary;5;2006-02-14;1.0;463;Sasebo;50;Japan
+2;1;Patricia;6;2006-02-14;1.0;449;San Bernardino;103;United States
+3;1;Linda;7;2006-02-14;1.0;38;Athenai;39;Greece
+4;2;Barbara;8;2006-02-14;1.0;349;Myingyan;64;Myanmar
+5;1;Elizabeth;9;2006-02-14;1.0;361;Nantou;92;Taiwan
+6;2;Jennifer;10;2006-02-14;1.0;295;Laredo;103;United States
+7;1;Maria;11;2006-02-14;1.0;280;Kragujevac;108;Yugoslavia
+8;2;Susan;12;2006-02-14;1.0;200;Hamilton;68;New Zealand
+9;2;Margaret;13;2006-02-14;1.0;329;Masqat;71;Oman
+10;1;Dorothy;14;2006-02-14;1.0;162;Esfahan;46;Iran
+11;2;Lisa;15;2006-02-14;1.0;440;Sagamihara;50;Japan
+12;1;Nancy;16;2006-02-14;1.0;582;Yamuna Nagar;44;India
+13;2;Karen;17;2006-02-14;1.0;384;Osmaniye;97;Turkey
+14;2;Betty;18;2006-02-14;1.0;120;Citrus Heights;103;United States
+15;1;Helen;19;2006-02-14;1.0;76;Bhopal;44;India
+16;2;Sandra;20;2006-02-14;0.0;495;Southend-on-Sea;102;United Kingdom
+17;1;Donna;21;2006-02-14;1.0;156;Elista;80;Russian Federation
+18;2;Carol;22;2006-02-14;1.0;252;Kaduna;69;Nigeria
+19;1;Ruth;23;2006-02-14;1.0;267;Kimberley;85;South Africa
+20;2;Sharon;24;2006-02-14;1.0;327;Mardan;72;Pakistan
+21;1;Michelle;25;2006-02-14;1.0;525;Tangail;12;Bangladesh
+22;1;Laura;26;2006-02-14;1.0;443;Sal;62;Morocco
+23;2;Sarah;27;2006-02-14;1.0;303;Liepaja;54;Latvia
+24;2;Kimberly;28;2006-02-14;1.0;128;Crdoba;6;Argentina
+25;1;Deborah;29;2006-02-14;1.0;472;Shikarpur;72;Pakistan
+26;2;Jessica;30;2006-02-14;1.0;121;Citt del Vaticano;41;Holy See (Vatican City State)
+27;2;Shirley;31;2006-02-14;1.0;138;Davao;75;Philippines
+28;1;Cynthia;32;2006-02-14;1.0;346;Munger (Monghyr);44;India
+29;2;Angela;33;2006-02-14;1.0;474;Shimonoseki;50;Japan
+30;1;Melissa;34;2006-02-14;1.0;316;Lungtan;92;Taiwan
+31;2;Brenda;35;2006-02-14;1.0;257;Kamarhati;44;India
+32;1;Amy;36;2006-02-14;1.0;239;Jhansi;44;India
+33;2;Anna;37;2006-02-14;1.0;17;Alessandria;49;Italy
+34;2;Rebecca;38;2006-02-14;1.0;284;Kurashiki;50;Japan
+35;2;Virginia;39;2006-02-14;1.0;544;Toulouse;34;France
+36;2;Kathleen;40;2006-02-14;1.0;31;Arak;46;Iran
+37;1;Pamela;41;2006-02-14;1.0;362;Nanyang;23;China
+38;1;Martha;42;2006-02-14;1.0;115;Chisinau;61;Moldova
+39;1;Debra;43;2006-02-14;1.0;569;Vila Velha;15;Brazil
+40;2;Amanda;44;2006-02-14;1.0;353;Nador;62;Morocco
+41;1;Stephanie;45;2006-02-14;1.0;586;Yerevan;7;Armenia
+42;2;Carolyn;46;2006-02-14;1.0;394;Pak Kret;94;Thailand
+43;2;Christine;47;2006-02-14;1.0;167;Faaa;36;French Polynesia
+44;1;Marie;48;2006-02-14;1.0;308;Lipetsk;80;Russian Federation
+45;1;Janet;49;2006-02-14;1.0;27;Antofagasta;22;Chile
+46;2;Catherine;50;2006-02-14;1.0;343;Moscow;80;Russian Federation
+47;1;Frances;51;2006-02-14;1.0;247;Juazeiro do Norte;15;Brazil
+48;1;Ann;52;2006-02-14;1.0;367;Niznekamsk;80;Russian Federation
+49;2;Joyce;53;2006-02-14;1.0;237;Jedda;82;Saudi Arabia
+50;1;Diane;54;2006-02-14;1.0;379;Omdurman;89;Sudan
+51;1;Alice;55;2006-02-14;1.0;171;Fontana;103;United States
+52;1;Julie;56;2006-02-14;1.0;1;A Corua (La Corua);87;Spain
+53;1;Heather;57;2006-02-14;1.0;355;Nagareyama;50;Japan
+54;1;Teresa;58;2006-02-14;1.0;227;Iwakuni;50;Japan
+55;2;Doris;59;2006-02-14;1.0;49;Balaiha;80;Russian Federation
+56;1;Gloria;60;2006-02-14;1.0;397;Papeete;36;French Polynesia
+57;2;Evelyn;61;2006-02-14;1.0;560;Vaduz;55;Liechtenstein
+58;1;Jean;62;2006-02-14;1.0;282;Kuching;59;Malaysia
+59;1;Cheryl;63;2006-02-14;1.0;350;Mysore;44;India
+60;1;Mildred;64;2006-02-14;1.0;231;Jaipur;44;India
+61;2;Katherine;65;2006-02-14;1.0;56;Basel;91;Switzerland
+62;1;Joan;66;2006-02-14;1.0;441;Saint Louis;103;United States
+63;1;Ashley;67;2006-02-14;1.0;306;Lincoln;103;United States
+64;2;Judith;68;2006-02-14;0.0;139;Daxian;23;China
+65;2;Rose;69;2006-02-14;1.0;105;Cayenne;35;French Guiana
+66;2;Janice;70;2006-02-14;1.0;321;Malm;90;Sweden
+67;1;Kelly;71;2006-02-14;1.0;579;Xiangtan;23;China
+68;1;Nicole;72;2006-02-14;1.0;475;Shivapuri;44;India
+69;2;Judy;73;2006-02-14;1.0;63;Bchar;2;Algeria
+70;2;Christina;74;2006-02-14;1.0;13;al-Hawiya;82;Saudi Arabia
+71;1;Kathy;75;2006-02-14;1.0;61;Baybay;75;Philippines
+72;2;Theresa;76;2006-02-14;1.0;517;Taguig;75;Philippines
+73;2;Beverly;77;2006-02-14;1.0;114;Chiayi;92;Taiwan
+74;1;Denise;78;2006-02-14;1.0;431;Rio Claro;15;Brazil
+75;2;Tammy;79;2006-02-14;1.0;108;Changhwa;92;Taiwan
+76;2;Irene;80;2006-02-14;1.0;402;Pavlodar;51;Kazakstan
+77;2;Jane;81;2006-02-14;1.0;30;Araatuba;15;Brazil
+78;1;Lori;82;2006-02-14;1.0;425;Rae Bareli;44;India
+79;1;Rachel;83;2006-02-14;1.0;256;Kamakura;50;Japan
+80;1;Marilyn;84;2006-02-14;1.0;217;Ife;69;Nigeria
+81;1;Andrea;85;2006-02-14;1.0;319;Mahajanga;57;Madagascar
+82;1;Kathryn;86;2006-02-14;1.0;479;Simferopol;100;Ukraine
+83;1;Louise;87;2006-02-14;1.0;497;Springs;85;South Africa
+84;2;Sara;88;2006-02-14;1.0;40;Atlixco;60;Mexico
+85;2;Anne;89;2006-02-14;1.0;88;Bradford;102;United Kingdom
+86;2;Jacqueline;90;2006-02-14;1.0;489;Songkhla;94;Thailand
+87;1;Wanda;91;2006-02-14;1.0;480;Sincelejo;24;Colombia
+88;2;Bonnie;92;2006-02-14;1.0;113;Cheju;86;South Korea
+89;1;Julia;93;2006-02-14;1.0;289;La Plata;6;Argentina
+90;2;Ruby;94;2006-02-14;1.0;332;Meixian;23;China
+91;2;Lois;95;2006-02-14;1.0;53;Bandar Seri Begawan;16;Brunei
+92;2;Tina;96;2006-02-14;1.0;183;Goinia;15;Brazil
+93;1;Phyllis;97;2006-02-14;1.0;592;Zalantun;23;China
+94;1;Norma;98;2006-02-14;1.0;82;Bislig;75;Philippines
+95;2;Paula;99;2006-02-14;1.0;399;Pathankot;44;India
+96;1;Diana;100;2006-02-14;1.0;41;Augusta-Richmond County;103;United States
+97;2;Annie;101;2006-02-14;1.0;534;Tete;63;Mozambique
+98;1;Lillian;102;2006-02-14;1.0;12;al-Ayn;101;United Arab Emirates
+99;2;Emily;103;2006-02-14;1.0;268;Kimchon;86;South Korea
+100;1;Robin;104;2006-02-14;1.0;238;Jelets;80;Russian Federation
+101;1;Peggy;105;2006-02-14;1.0;2;Abha;82;Saudi Arabia
+102;1;Crystal;106;2006-02-14;1.0;34;Ashdod;48;Israel
+103;1;Gladys;107;2006-02-14;1.0;220;Ilorin;69;Nigeria
+104;1;Rita;108;2006-02-14;1.0;543;Toulon;34;France
+105;1;Dawn;109;2006-02-14;1.0;173;Funafuti;99;Tuvalu
+106;1;Connie;110;2006-02-14;1.0;225;Ivanovo;80;Russian Federation
+107;1;Florence;111;2006-02-14;1.0;334;Merlo;6;Argentina
+108;1;Tracy;112;2006-02-14;1.0;213;Huixquilucan;60;Mexico
+109;2;Edna;113;2006-02-14;1.0;273;Klerksdorp;85;South Africa
+110;2;Tiffany;114;2006-02-14;1.0;159;Enshi;23;China
+111;1;Carmen;115;2006-02-14;1.0;102;Caracas;104;Venezuela
+112;2;Rosa;116;2006-02-14;1.0;292;Lancaster;103;United States
+113;2;Cindy;117;2006-02-14;1.0;132;Cuman;104;Venezuela
+114;2;Grace;118;2006-02-14;1.0;148;Duisburg;38;Germany
+115;1;Wendy;119;2006-02-14;1.0;365;Nezahualcyotl;60;Mexico
+116;1;Victoria;120;2006-02-14;1.0;403;Pemalang;45;Indonesia
+117;1;Edith;121;2006-02-14;1.0;176;Gandhinagar;44;India
+118;1;Kim;122;2006-02-14;1.0;185;Grand Prairie;103;United States
+119;1;Sherry;123;2006-02-14;1.0;476;Shubra al-Khayma;29;Egypt
+120;2;Sylvia;124;2006-02-14;1.0;147;Dos Quebradas;24;Colombia
+121;1;Josephine;125;2006-02-14;1.0;164;Etawah;44;India
+122;1;Thelma;126;2006-02-14;1.0;305;Lima;74;Peru
+123;2;Shannon;127;2006-02-14;1.0;566;Varanasi (Benares);44;India
+124;1;Sheila;128;2006-02-14;0.0;281;Ktahya;97;Turkey
+125;1;Ethel;129;2006-02-14;1.0;85;Boksburg;85;South Africa
+126;1;Ellen;130;2006-02-14;1.0;410;Po;15;Brazil
+127;2;Elaine;131;2006-02-14;1.0;484;Smolensk;80;Russian Federation
+128;1;Marjorie;132;2006-02-14;1.0;236;Jastrzebie-Zdrj;76;Poland
+129;1;Carrie;133;2006-02-14;1.0;302;Liaocheng;23;China
+130;1;Charlotte;134;2006-02-14;1.0;190;guas Lindas de Gois;15;Brazil
+131;2;Monica;135;2006-02-14;1.0;345;Mukateve;100;Ukraine
+132;2;Esther;136;2006-02-14;1.0;87;Botshabelo;85;South Africa
+133;1;Pauline;137;2006-02-14;1.0;541;Torren;60;Mexico
+134;1;Emma;138;2006-02-14;1.0;421;Qalyub;29;Egypt
+135;2;Juanita;139;2006-02-14;1.0;417;Pune;44;India
+136;2;Anita;140;2006-02-14;1.0;211;Hubli-Dharwad;44;India
+137;2;Rhonda;141;2006-02-14;1.0;29;Apeldoorn;67;Netherlands
+138;1;Hazel;142;2006-02-14;1.0;207;Hohhot;23;China
+139;1;Amber;143;2006-02-14;1.0;542;Touliu;92;Taiwan
+140;1;Eva;144;2006-02-14;1.0;123;Clarksville;103;United States
+141;1;Debbie;145;2006-02-14;1.0;172;Fukuyama;50;Japan
+142;1;April;146;2006-02-14;1.0;149;Dundee;102;United Kingdom
+143;1;Leslie;147;2006-02-14;1.0;266;Kilis;97;Turkey
+144;1;Clara;148;2006-02-14;1.0;340;Molodetno;13;Belarus
+145;1;Lucille;149;2006-02-14;1.0;491;Soshanguve;85;South Africa
+146;1;Jamie;150;2006-02-14;1.0;499;Sterling Heights;103;United States
+147;2;Joanne;151;2006-02-14;1.0;555;Urawa;50;Japan
+148;1;Eleanor;152;2006-02-14;1.0;442;Saint-Denis;79;Runion
+149;1;Valerie;153;2006-02-14;1.0;94;Brockton;103;United States
+150;2;Danielle;154;2006-02-14;1.0;202;Hidalgo;60;Mexico
+151;2;Megan;155;2006-02-14;1.0;291;Laiwu;23;China
+152;1;Alicia;156;2006-02-14;1.0;354;Nagaon;44;India
+153;2;Suzanne;157;2006-02-14;1.0;232;Jakarta;45;Indonesia
+154;2;Michele;158;2006-02-14;1.0;590;Yuncheng;23;China
+155;1;Gail;159;2006-02-14;1.0;72;Bern;91;Switzerland
+156;1;Bertha;160;2006-02-14;1.0;381;Ondo;69;Nigeria
+157;2;Darlene;161;2006-02-14;1.0;420;Pyongyang;70;North Korea
+158;1;Veronica;162;2006-02-14;1.0;187;Greensboro;103;United States
+159;1;Jill;163;2006-02-14;1.0;307;Linz;9;Austria
+160;2;Erin;164;2006-02-14;1.0;310;Ljubertsy;80;Russian Federation
+161;1;Geraldine;165;2006-02-14;1.0;533;Tel Aviv-Jaffa;48;Israel
+162;2;Lauren;166;2006-02-14;1.0;297;Le Mans;34;France
+163;1;Cathy;167;2006-02-14;1.0;253;Kakamigahara;50;Japan
+164;2;Joann;168;2006-02-14;1.0;529;Tarsus;97;Turkey
+165;2;Lorraine;169;2006-02-14;1.0;199;Hami;23;China
+166;1;Lynn;170;2006-02-14;1.0;304;Lilongwe;58;Malawi
+167;2;Sally;171;2006-02-14;1.0;107;Chandrapur;44;India
+168;1;Regina;172;2006-02-14;1.0;240;Jinchang;23;China
+169;2;Erica;173;2006-02-14;0.0;407;Pingxiang;23;China
+170;1;Beatrice;174;2006-02-14;1.0;550;Udaipur;44;India
+171;2;Dolores;175;2006-02-14;1.0;223;Ipoh;59;Malaysia
+172;1;Bernice;176;2006-02-14;1.0;58;Batman;97;Turkey
+173;1;Audrey;177;2006-02-14;1.0;186;Graz;9;Austria
+174;2;Yvonne;178;2006-02-14;1.0;373;Ocumare del Tuy;104;Venezuela
+175;1;Annette;179;2006-02-14;1.0;18;Allappuzha (Alleppey);44;India
+176;1;June;180;2006-02-14;1.0;483;Skikda;2;Algeria
+177;2;Samantha;181;2006-02-14;1.0;330;Matamoros;60;Mexico
+178;2;Marion;182;2006-02-14;1.0;456;Santa Brbara dOeste;15;Brazil
+179;1;Dana;183;2006-02-14;1.0;270;Kirovo-Tepetsk;80;Russian Federation
+180;2;Stacy;184;2006-02-14;1.0;405;Pereira;24;Colombia
+181;2;Ana;185;2006-02-14;1.0;333;Memphis;103;United States
+182;1;Renee;186;2006-02-14;1.0;126;Compton;103;United States
+183;2;Ida;187;2006-02-14;1.0;317;Luzinia;15;Brazil
+184;1;Vivian;188;2006-02-14;1.0;438;s-Hertogenbosch;67;Netherlands
+185;1;Roberta;189;2006-02-14;1.0;467;Shahr-e Kord;46;Iran
+186;2;Holly;190;2006-02-14;1.0;195;Haldia;44;India
+187;2;Brittany;191;2006-02-14;1.0;506;Sumy;100;Ukraine
+188;1;Melanie;192;2006-02-14;1.0;62;Bayugan;75;Philippines
+189;1;Loretta;193;2006-02-14;1.0;383;Oshawa;20;Canada
+190;2;Yolanda;194;2006-02-14;1.0;513;Tabora;93;Tanzania
+191;1;Jeanette;195;2006-02-14;1.0;369;Novoterkassk;80;Russian Federation
+192;1;Laurie;196;2006-02-14;1.0;169;Firozabad;44;India
+193;2;Katie;197;2006-02-14;1.0;271;Kisumu;52;Kenya
+194;2;Kristen;198;2006-02-14;1.0;204;Hino;50;Japan
+195;1;Vanessa;199;2006-02-14;1.0;477;Siegen;38;Germany
+196;1;Alma;200;2006-02-14;1.0;325;Mannheim;38;Germany
+197;2;Sue;201;2006-02-14;1.0;109;Changzhou;23;China
+198;2;Elsie;202;2006-02-14;1.0;218;Ikerre;69;Nigeria
+199;2;Beth;203;2006-02-14;1.0;194;Haiphong;105;Vietnam
+200;2;Jeanne;204;2006-02-14;1.0;35;Ashgabat;98;Turkmenistan
+201;1;Vicki;205;2006-02-14;1.0;575;Witten;38;Germany
+202;2;Carla;206;2006-02-14;1.0;77;Bhusawal;44;India
+203;1;Tara;207;2006-02-14;1.0;184;Gorontalo;45;Indonesia
+204;1;Rosemary;208;2006-02-14;1.0;557;Usak;97;Turkey
+205;2;Eileen;209;2006-02-14;1.0;122;Ciudad del Este;73;Paraguay
+206;1;Terri;210;2006-02-14;1.0;83;Blumenau;15;Brazil
+207;1;Gertrude;211;2006-02-14;1.0;371;Nuuk;40;Greenland
+208;1;Lucy;212;2006-02-14;1.0;51;Balurghat;44;India
+209;2;Tonya;213;2006-02-14;1.0;74;Bhilwara;44;India
+210;2;Ella;214;2006-02-14;1.0;7;Aden;107;Yemen
+211;1;Stacey;215;2006-02-14;1.0;174;Fuyu;23;China
+212;2;Wilma;216;2006-02-14;1.0;65;Bellevue;103;United States
+213;1;Gina;217;2006-02-14;1.0;518;Taizz;107;Yemen
+214;1;Kristin;218;2006-02-14;1.0;508;Sunnyvale;103;United States
+215;2;Jessie;219;2006-02-14;1.0;498;Stara Zagora;17;Bulgaria
+216;1;Natalie;220;2006-02-14;1.0;28;Aparecida de Goinia;15;Brazil
+217;2;Agnes;221;2006-02-14;1.0;448;Sambhal;44;India
+218;1;Vera;222;2006-02-14;1.0;251;Kabul;1;Afghanistan
+219;2;Willie;223;2006-02-14;1.0;567;Vicente Lpez;6;Argentina
+220;2;Charlene;224;2006-02-14;1.0;593;Zanzibar;93;Tanzania
+221;1;Bessie;225;2006-02-14;1.0;511;Syrakusa;49;Italy
+222;2;Delores;226;2006-02-14;1.0;235;Jaroslavl;80;Russian Federation
+223;1;Melinda;227;2006-02-14;1.0;324;Mandi Bahauddin;72;Pakistan
+224;2;Pearl;228;2006-02-14;1.0;243;Jodhpur;44;India
+225;1;Arlene;229;2006-02-14;1.0;22;Ambattur;44;India
+226;2;Maureen;230;2006-02-14;1.0;37;Asuncin;73;Paraguay
+227;1;Colleen;231;2006-02-14;1.0;439;Saarbrcken;38;Germany
+228;2;Allison;232;2006-02-14;1.0;406;Phnom Penh;18;Cambodia
+229;1;Tamara;233;2006-02-14;1.0;26;Anpolis;15;Brazil
+230;2;Joy;234;2006-02-14;1.0;86;Botosani;78;Romania
+231;1;Georgia;235;2006-02-14;1.0;559;Uttarpara-Kotrung;44;India
+232;2;Constance;236;2006-02-14;1.0;596;Zaria;69;Nigeria
+233;2;Lillie;237;2006-02-14;1.0;216;Idfu;29;Egypt
+234;1;Claudia;238;2006-02-14;1.0;233;Jalib al-Shuyukh;53;Kuwait
+235;1;Jackie;239;2006-02-14;1.0;96;Buenaventura;24;Colombia
+236;1;Marcia;240;2006-02-14;1.0;527;Tanza;75;Philippines
+237;1;Tanya;241;2006-02-14;1.0;357;Naju;86;South Korea
+238;1;Nellie;242;2006-02-14;1.0;473;Shimoga;44;India
+239;2;Minnie;243;2006-02-14;1.0;118;Ciomas;45;Indonesia
+240;1;Marlene;244;2006-02-14;1.0;226;Iwaki;50;Japan
+241;2;Heidi;245;2006-02-14;0.0;578;Xiangfan;23;China
+242;1;Glenda;246;2006-02-14;1.0;422;Qinhuangdao;23;China
+243;1;Lydia;247;2006-02-14;1.0;454;San Miguel de Tucumn;6;Argentina
+244;2;Viola;248;2006-02-14;1.0;294;Lapu-Lapu;75;Philippines
+245;1;Courtney;249;2006-02-14;1.0;553;Uijongbu;86;South Korea
+246;1;Marian;250;2006-02-14;1.0;328;Maring;15;Brazil
+247;1;Stella;251;2006-02-14;1.0;124;Coacalco de Berriozbal;60;Mexico
+248;1;Caroline;252;2006-02-14;1.0;520;Tallahassee;103;United States
+249;2;Dora;253;2006-02-14;1.0;535;Tianjin;23;China
+250;2;Jo;254;2006-02-14;1.0;390;Oyo;69;Nigeria
+251;2;Vickie;255;2006-02-14;1.0;198;Halle/Saale;38;Germany
+252;2;Mattie;256;2006-02-14;1.0;312;London;102;United Kingdom
+253;1;Terry;258;2006-02-14;1.0;338;Miyakonojo;50;Japan
+254;2;Maxine;259;2006-02-14;1.0;413;Poos de Caldas;15;Brazil
+255;2;Irma;260;2006-02-14;1.0;192;Hagonoy;75;Philippines
+256;2;Mabel;261;2006-02-14;1.0;342;Monywa;64;Myanmar
+257;2;Marsha;262;2006-02-14;1.0;64;Beira;63;Mozambique
+258;1;Myrtle;263;2006-02-14;1.0;460;Santiago de los Caballeros;27;Dominican Republic
+259;2;Lena;264;2006-02-14;1.0;197;Halisahar;44;India
+260;1;Christy;265;2006-02-14;1.0;136;Datong;23;China
+261;1;Deanna;266;2006-02-14;1.0;548;Tuguegarao;75;Philippines
+262;2;Patsy;267;2006-02-14;1.0;414;Portoviejo;28;Ecuador
+263;1;Hilda;268;2006-02-14;1.0;323;Mandaluyong;75;Philippines
+264;1;Gwendolyn;269;2006-02-14;1.0;203;Higashiosaka;50;Japan
+265;2;Jennie;270;2006-02-14;1.0;378;Olomouc;26;Czech Republic
+266;2;Nora;271;2006-02-14;1.0;447;Salzburg;9;Austria
+267;1;Margie;272;2006-02-14;1.0;298;Lengshuijiang;23;China
+268;1;Nina;273;2006-02-14;1.0;395;Palghat (Palakkad);44;India
+269;1;Cassandra;274;2006-02-14;1.0;446;Salinas;103;United States
+270;1;Leah;275;2006-02-14;1.0;255;Kalisz;76;Poland
+271;1;Penny;276;2006-02-14;0.0;283;Kumbakonam;44;India
+272;1;Kay;277;2006-02-14;1.0;584;Yantai;23;China
+273;2;Priscilla;278;2006-02-14;1.0;445;Salamanca;60;Mexico
+274;1;Naomi;279;2006-02-14;1.0;263;Karnal;44;India
+275;2;Carole;280;2006-02-14;1.0;404;Peoria;103;United States
+276;1;Brandy;281;2006-02-14;1.0;573;Warren;103;United States
+277;2;Olga;282;2006-02-14;1.0;374;Ogbomosho;69;Nigeria
+278;2;Billie;283;2006-02-14;1.0;222;Inegl;97;Turkey
+279;2;Dianne;284;2006-02-14;1.0;514;Tabriz;46;Iran
+280;2;Tracey;285;2006-02-14;1.0;389;Owo;69;Nigeria
+281;2;Leona;286;2006-02-14;1.0;175;Fuzhou;23;China
+282;2;Jenny;287;2006-02-14;1.0;411;Ponce;77;Puerto Rico
+283;1;Felicia;288;2006-02-14;1.0;277;Korla;23;China
+284;1;Sonia;289;2006-02-14;1.0;69;Benin City;69;Nigeria
+285;1;Miriam;290;2006-02-14;1.0;386;Otsu;50;Japan
+286;1;Velma;291;2006-02-14;1.0;152;Effon-Alaiye;69;Nigeria
+287;2;Becky;292;2006-02-14;1.0;522;Tambaram;44;India
+288;1;Bobbie;293;2006-02-14;1.0;563;Valle de Santiago;60;Mexico
+289;1;Violet;294;2006-02-14;1.0;279;Kowloon and New Kowloon;42;Hong Kong
+290;1;Kristina;295;2006-02-14;1.0;562;Valle de la Pascua;104;Venezuela
+291;1;Toni;296;2006-02-14;1.0;433;Roanoke;103;United States
+292;2;Misty;297;2006-02-14;1.0;470;Sharja;101;United Arab Emirates
+293;2;Mae;298;2006-02-14;1.0;146;Donostia-San Sebastin;87;Spain
+294;2;Shelly;299;2006-02-14;1.0;140;Dayton;103;United States
+295;1;Daisy;300;2006-02-14;1.0;274;Kolpino;80;Russian Federation
+296;2;Ramona;301;2006-02-14;1.0;400;Patiala;44;India
+297;1;Sherri;302;2006-02-14;1.0;9;Ahmadnagar;44;India
+298;1;Erika;303;2006-02-14;1.0;387;Oulu;33;Finland
+299;2;James;304;2006-02-14;1.0;205;Hiroshima;50;Japan
+300;1;John;305;2006-02-14;1.0;398;Parbhani;44;India
+301;2;Robert;306;2006-02-14;1.0;254;Kaliningrad;80;Russian Federation
+302;1;Michael;307;2006-02-14;1.0;536;Tiefa;23;China
+303;2;William;308;2006-02-14;1.0;455;Sanaa;107;Yemen
+304;2;David;309;2006-02-14;1.0;99;Callao;74;Peru
+305;1;Richard;310;2006-02-14;1.0;33;Arlington;103;United States
+306;1;Charles;311;2006-02-14;1.0;507;Sungai Petani;59;Malaysia
+307;2;Joseph;312;2006-02-14;1.0;25;Angra dos Reis;15;Brazil
+308;1;Thomas;313;2006-02-14;1.0;262;Kansas City;103;United States
+309;1;Christopher;314;2006-02-14;1.0;91;Brescia;49;Italy
+310;2;Daniel;315;2006-02-14;1.0;215;Ibirit;15;Brazil
+311;2;Paul;316;2006-02-14;1.0;286;Kursk;80;Russian Federation
+312;2;Mark;317;2006-02-14;1.0;515;Tabuk;82;Saudi Arabia
+313;2;Donald;318;2006-02-14;1.0;166;Ezhou;23;China
+314;1;George;319;2006-02-14;1.0;490;Sorocaba;15;Brazil
+315;2;Kenneth;320;2006-02-14;0.0;57;Bat Yam;48;Israel
+316;1;Steven;321;2006-02-14;1.0;336;Miraj;44;India
+317;2;Edward;322;2006-02-14;1.0;545;Trshavn;32;Faroe Islands
+318;1;Brian;323;2006-02-14;1.0;97;Bydgoszcz;76;Poland
+319;2;Ronald;324;2006-02-14;1.0;451;San Felipe del Progreso;60;Mexico
+320;2;Anthony;325;2006-02-14;1.0;516;Tafuna;3;American Samoa
+321;1;Kevin;326;2006-02-14;1.0;81;Birgunj;66;Nepal
+322;1;Jason;327;2006-02-14;1.0;45;Baha Blanca;6;Argentina
+323;2;Matthew;328;2006-02-14;1.0;130;Cuautla;60;Mexico
+324;2;Gary;329;2006-02-14;1.0;591;Yuzhou;23;China
+325;1;Timothy;330;2006-02-14;1.0;89;Braslia;15;Brazil
+326;1;Jose;331;2006-02-14;1.0;269;Kingstown;81;Saint Vincent and the Grenadines
+327;2;Larry;332;2006-02-14;1.0;5;Adana;97;Turkey
+328;2;Jeffrey;333;2006-02-14;1.0;119;Ciparay;45;Indonesia
+329;2;Frank;334;2006-02-14;1.0;234;Jamalpur;12;Bangladesh
+330;1;Scott;335;2006-02-14;1.0;42;Aurora;103;United States
+331;1;Eric;336;2006-02-14;1.0;457;Santa F;6;Argentina
+332;1;Stephen;337;2006-02-14;1.0;143;Dhaka;12;Bangladesh
+333;2;Andrew;338;2006-02-14;1.0;48;Baku;10;Azerbaijan
+334;2;Raymond;339;2006-02-14;1.0;505;Sumqayit;10;Azerbaijan
+335;1;Gregory;340;2006-02-14;1.0;492;Sousse;96;Tunisia
+336;1;Joshua;341;2006-02-14;1.0;427;Rampur;44;India
+337;1;Jerry;342;2006-02-14;1.0;382;Onomichi;50;Japan
+338;1;Dennis;343;2006-02-14;1.0;392;Paarl;85;South Africa
+339;2;Walter;344;2006-02-14;1.0;581;Xinxiang;23;China
+340;1;Patrick;345;2006-02-14;1.0;201;Hanoi;105;Vietnam
+341;1;Peter;346;2006-02-14;1.0;151;Ede;67;Netherlands
+342;1;Harold;347;2006-02-14;1.0;84;Boa Vista;15;Brazil
+343;1;Douglas;348;2006-02-14;1.0;335;Mexicali;60;Mexico
+344;1;Henry;349;2006-02-14;1.0;370;Nukualofa;95;Tonga
+345;1;Carl;350;2006-02-14;1.0;453;San Lorenzo;73;Paraguay
+346;1;Arthur;351;2006-02-14;1.0;320;Maikop;80;Russian Federation
+347;2;Ryan;352;2006-02-14;1.0;137;Daugavpils;54;Latvia
+348;2;Roger;353;2006-02-14;1.0;209;Hsichuh;92;Taiwan
+349;2;Joe;354;2006-02-14;1.0;221;Imus;75;Philippines
+350;1;Juan;355;2006-02-14;1.0;531;Teboksary;80;Russian Federation
+351;1;Jack;356;2006-02-14;1.0;597;Zeleznogorsk;80;Russian Federation
+352;1;Albert;357;2006-02-14;1.0;52;Bamenda;19;Cameroon
+353;1;Jonathan;358;2006-02-14;1.0;393;Pachuca de Soto;60;Mexico
+354;2;Justin;359;2006-02-14;1.0;461;Santo Andr;15;Brazil
+355;2;Terry;360;2006-02-14;1.0;331;Matsue;50;Japan
+356;2;Gerald;361;2006-02-14;1.0;464;Satna;44;India
+357;1;Keith;362;2006-02-14;1.0;90;Bratislava;84;Slovakia
+358;2;Samuel;363;2006-02-14;1.0;429;Ranchi;44;India
+359;2;Willie;364;2006-02-14;1.0;20;Almirante Brown;6;Argentina
+360;2;Ralph;365;2006-02-14;1.0;32;Arecibo;77;Puerto Rico
+361;2;Lawrence;366;2006-02-14;1.0;585;Yaound;19;Cameroon
+362;1;Nicholas;367;2006-02-14;1.0;66;Belm;15;Brazil
+363;2;Roy;368;2006-02-14;1.0;372;Nyeri;52;Kenya
+364;1;Benjamin;369;2006-02-14;1.0;188;Guadalajara;60;Mexico
+365;2;Bruce;370;2006-02-14;1.0;377;Okinawa;50;Japan
+366;1;Brandon;371;2006-02-14;1.0;50;Balikesir;97;Turkey
+367;1;Adam;372;2006-02-14;1.0;8;Adoni;44;India
+368;1;Harry;373;2006-02-14;0.0;356;Najafabad;46;Iran
+369;2;Fred;374;2006-02-14;1.0;250;Jurez;60;Mexico
+370;2;Wayne;375;2006-02-14;1.0;191;Gulbarga;44;India
+371;1;Billy;376;2006-02-14;1.0;98;Cabuyao;75;Philippines
+372;2;Steve;377;2006-02-14;1.0;415;Probolinggo;45;Indonesia
+373;1;Louis;378;2006-02-14;1.0;523;Tanauan;75;Philippines
+374;2;Jeremy;379;2006-02-14;1.0;572;Vitria de Santo Anto;15;Brazil
+375;2;Aaron;380;2006-02-14;1.0;348;Mwene-Ditu;25;Congo, The Democratic Republic of the
+376;1;Randy;381;2006-02-14;1.0;285;Kurgan;80;Russian Federation
+377;1;Howard;382;2006-02-14;1.0;265;Kermanshah;46;Iran
+378;1;Eugene;383;2006-02-14;1.0;471;Shenzhen;23;China
+379;1;Carlos;384;2006-02-14;1.0;73;Bhavnagar;44;India
+380;1;Russell;385;2006-02-14;1.0;549;Tychy;76;Poland
+381;2;Bobby;386;2006-02-14;1.0;493;South Hill;5;Anguilla
+382;2;Victor;387;2006-02-14;1.0;322;Manchester;103;United States
+383;1;Martin;388;2006-02-14;1.0;360;Namibe;4;Angola
+384;2;Ernest;389;2006-02-14;1.0;210;Huaian;23;China
+385;1;Phillip;390;2006-02-14;1.0;521;Tama;50;Japan
+386;1;Todd;391;2006-02-14;1.0;258;Kamjanets-Podilskyi;100;Ukraine
+387;2;Jesse;392;2006-02-14;1.0;315;Lubumbashi;25;Congo, The Democratic Republic of the
+388;2;Craig;393;2006-02-14;1.0;104;Cavite;75;Philippines
+389;1;Alan;394;2006-02-14;1.0;157;Emeishan;23;China
+390;1;Shawn;395;2006-02-14;1.0;358;Nakhon Sawan;94;Thailand
+391;1;Clarence;396;2006-02-14;1.0;229;Izumisano;50;Japan
+392;2;Sean;397;2006-02-14;1.0;6;Addis Abeba;31;Ethiopia
+393;1;Philip;398;2006-02-14;1.0;278;Korolev;80;Russian Federation
+394;2;Chris;399;2006-02-14;1.0;181;Gijn;87;Spain
+395;2;Johnny;400;2006-02-14;1.0;15;al-Qadarif;89;Sudan
+396;1;Earl;401;2006-02-14;1.0;228;Iwatsuki;50;Japan
+397;1;Jimmy;402;2006-02-14;1.0;39;Atinsk;80;Russian Federation
+398;1;Antonio;403;2006-02-14;1.0;44;Bag;15;Brazil
+399;1;Danny;404;2006-02-14;1.0;375;Okara;72;Pakistan
+400;2;Bryan;405;2006-02-14;1.0;135;Dallas;103;United States
+401;2;Tony;406;2006-02-14;1.0;276;Koriyama;50;Japan
+402;1;Luis;407;2006-02-14;1.0;92;Brest;34;France
+403;1;Mike;408;2006-02-14;1.0;564;Valparai;44;India
+404;2;Stanley;409;2006-02-14;1.0;380;Omiya;50;Japan
+405;1;Leonard;410;2006-02-14;1.0;524;Tandil;6;Argentina
+406;1;Nathan;411;2006-02-14;0.0;111;Charlotte Amalie;106;Virgin Islands, U.S.
+407;1;Dale;412;2006-02-14;1.0;437;Rustenburg;85;South Africa
+408;1;Manuel;413;2006-02-14;1.0;230;Jaffna;88;Sri Lanka
+409;2;Rodney;414;2006-02-14;1.0;141;Deba Habe;69;Nigeria
+410;2;Curtis;415;2006-02-14;1.0;430;Richmond Hill;20;Canada
+411;1;Norman;416;2006-02-14;1.0;117;Cianjur;45;Indonesia
+412;2;Allen;417;2006-02-14;1.0;208;Hoshiarpur;44;India
+413;2;Marvin;418;2006-02-14;1.0;71;Berhampore (Baharampur);44;India
+414;1;Vincent;419;2006-02-14;1.0;19;Allende;60;Mexico
+415;1;Glenn;420;2006-02-14;1.0;23;Amersfoort;67;Netherlands
+416;2;Jeffery;421;2006-02-14;1.0;134;Dadu;72;Pakistan
+417;1;Travis;422;2006-02-14;1.0;16;al-Qatif;82;Saudi Arabia
+418;2;Jeff;423;2006-02-14;1.0;450;San Felipe de Puerto Plata;27;Dominican Republic
+419;1;Chad;424;2006-02-14;1.0;264;Katihar;44;India
+420;1;Jacob;425;2006-02-14;1.0;155;El Monte;103;United States
+421;1;Lee;426;2006-02-14;1.0;416;Pudukkottai;44;India
+422;1;Melvin;427;2006-02-14;1.0;293;Laohekou;23;China
+423;2;Alfred;428;2006-02-14;1.0;465;Sawhaj;29;Egypt
+424;2;Kyle;429;2006-02-14;1.0;468;Shanwei;23;China
+425;2;Francis;430;2006-02-14;1.0;452;San Juan Bautista Tuxtepec;60;Mexico
+426;1;Bradley;431;2006-02-14;1.0;418;Purnea (Purnia);44;India
+427;2;Jesus;432;2006-02-14;1.0;189;Guaruj;15;Brazil
+428;2;Herbert;433;2006-02-14;1.0;510;Syktyvkar;80;Russian Federation
+429;2;Frederick;434;2006-02-14;1.0;547;Tsuyama;50;Japan
+430;1;Ray;435;2006-02-14;1.0;150;Dzerzinsk;80;Russian Federation
+431;2;Joel;436;2006-02-14;1.0;501;Sucre;14;Bolivia
+432;1;Edwin;437;2006-02-14;1.0;364;Newcastle;85;South Africa
+433;1;Don;438;2006-02-14;1.0;351;Naala-Porto;63;Mozambique
+434;1;Eddie;439;2006-02-14;1.0;391;Ozamis;75;Philippines
+435;2;Ricky;440;2006-02-14;1.0;249;Junan;23;China
+436;1;Troy;441;2006-02-14;1.0;565;Vancouver;20;Canada
+437;2;Randall;442;2006-02-14;1.0;290;La Romana;27;Dominican Republic
+438;1;Barry;443;2006-02-14;1.0;272;Kitwe;109;Zambia
+439;2;Alexander;444;2006-02-14;1.0;70;Bergamo;49;Italy
+440;1;Bernard;445;2006-02-14;1.0;144;Dhule (Dhulia);44;India
+441;1;Mario;446;2006-02-14;1.0;59;Batna;2;Algeria
+442;1;Leroy;447;2006-02-14;1.0;540;Tongliao;23;China
+443;2;Francisco;448;2006-02-14;1.0;486;So Leopoldo;15;Brazil
+444;2;Marcus;449;2006-02-14;1.0;530;Tartu;30;Estonia
+445;1;Micheal;450;2006-02-14;1.0;161;Escobar;6;Argentina
+446;2;Theodore;451;2006-02-14;0.0;554;Uluberia;44;India
+447;1;Clifford;452;2006-02-14;1.0;352;Nabereznyje Telny;80;Russian Federation
+448;1;Miguel;453;2006-02-14;1.0;160;Erlangen;38;Germany
+449;2;Oscar;454;2006-02-14;1.0;481;Sirjan;46;Iran
+450;1;Jay;455;2006-02-14;1.0;509;Surakarta;45;Indonesia
+451;1;Jim;456;2006-02-14;1.0;154;El Fuerte;60;Mexico
+452;1;Tom;457;2006-02-14;1.0;3;Abu Dhabi;101;United Arab Emirates
+453;1;Calvin;458;2006-02-14;1.0;326;Maracabo;104;Venezuela
+454;2;Alex;459;2006-02-14;1.0;556;Uruapan;60;Mexico
+455;2;Jon;460;2006-02-14;1.0;153;El Alto;14;Bolivia
+456;2;Ronnie;461;2006-02-14;1.0;600;Ziguinchor;83;Senegal
+457;2;Bill;462;2006-02-14;1.0;435;Rockford;103;United States
+458;1;Lloyd;463;2006-02-14;1.0;532;Tegal;45;Indonesia
+459;1;Tommy;464;2006-02-14;1.0;423;Qomsheh;46;Iran
+460;1;Leon;465;2006-02-14;1.0;170;Florencia;24;Colombia
+461;1;Derek;466;2006-02-14;1.0;182;Gingoog;75;Philippines
+462;2;Warren;467;2006-02-14;1.0;558;Usolje-Sibirskoje;80;Russian Federation
+463;2;Darrell;468;2006-02-14;1.0;196;Halifax;20;Canada
+464;1;Jerome;469;2006-02-14;1.0;428;Rancagua;22;Chile
+465;1;Floyd;470;2006-02-14;1.0;595;Zapopan;60;Mexico
+466;1;Leo;471;2006-02-14;1.0;145;Dongying;23;China
+467;2;Alvin;472;2006-02-14;1.0;129;Cuauhtmoc;60;Mexico
+468;1;Tim;473;2006-02-14;1.0;78;Bijapur;44;India
+469;2;Wesley;474;2006-02-14;1.0;388;Ourense (Orense);87;Spain
+470;1;Gordon;475;2006-02-14;1.0;206;Hodeida;107;Yemen
+471;1;Dean;476;2006-02-14;1.0;244;Johannesburg;85;South Africa
+472;1;Greg;477;2006-02-14;1.0;359;Nam Dinh;105;Vietnam
+473;2;Jorge;478;2006-02-14;1.0;301;Lhokseumawe;45;Indonesia
+474;2;Dustin;479;2006-02-14;1.0;158;Emmen;67;Netherlands
+475;2;Pedro;480;2006-02-14;1.0;385;ostka;100;Ukraine
+476;1;Derrick;481;2006-02-14;1.0;179;Gatineau;20;Canada
+477;1;Dan;482;2006-02-14;1.0;500;Stockport;102;United Kingdom
+478;1;Lewis;483;2006-02-14;1.0;36;Ashqelon;48;Israel
+479;1;Zachary;484;2006-02-14;1.0;11;Akron;103;United States
+480;1;Corey;485;2006-02-14;1.0;180;Gaziantep;97;Turkey
+481;1;Herman;486;2006-02-14;1.0;347;Mwanza;93;Tanzania
+482;1;Maurice;487;2006-02-14;0.0;125;Coatzacoalcos;60;Mexico
+483;2;Vernon;488;2006-02-14;1.0;142;Denizli;97;Turkey
+484;1;Roberto;489;2006-02-14;1.0;587;Yinchuan;23;China
+485;1;Clyde;490;2006-02-14;1.0;469;Shaoguan;23;China
+486;1;Glen;491;2006-02-14;1.0;4;Acua;60;Mexico
+487;2;Hector;492;2006-02-14;1.0;408;Pjatigorsk;80;Russian Federation
+488;2;Shane;493;2006-02-14;1.0;288;La Paz;60;Mexico
+489;1;Ricardo;494;2006-02-14;1.0;376;Okayama;50;Japan
+490;1;Sam;495;2006-02-14;1.0;487;Sogamoso;24;Colombia
+491;2;Rick;496;2006-02-14;1.0;337;Mit Ghamr;29;Egypt
+492;2;Lester;497;2006-02-14;1.0;261;Kanchrapara;44;India
+493;1;Brent;498;2006-02-14;1.0;504;Sultanbeyli;97;Turkey
+494;2;Ramon;499;2006-02-14;1.0;434;Robamba;28;Ecuador
+495;2;Charlie;500;2006-02-14;1.0;47;Baiyin;23;China
+496;2;Tyler;501;2006-02-14;1.0;432;Rizhao;23;China
+497;2;Gilbert;502;2006-02-14;1.0;589;York;102;United Kingdom
+498;1;Gene;503;2006-02-14;1.0;444;Salala;71;Oman
+499;2;Marc;504;2006-02-14;1.0;93;Brindisi;49;Italy
+500;1;Reginald;505;2006-02-14;1.0;318;Madiun;45;Indonesia
+501;1;Ruben;506;2006-02-14;1.0;314;Lublin;76;Poland
+502;1;Brett;507;2006-02-14;1.0;478;Siliguri (Shiliguri);44;India
+503;1;Angel;508;2006-02-14;1.0;552;Ueda;50;Japan
+504;1;Nathaniel;509;2006-02-14;1.0;245;Joliet;103;United States
+505;1;Rafael;510;2006-02-14;1.0;519;Talavera;75;Philippines
+506;2;Leslie;511;2006-02-14;1.0;412;Pontianak;45;Indonesia
+507;2;Edgar;512;2006-02-14;1.0;163;Eskisehir;97;Turkey
+508;2;Milton;513;2006-02-14;1.0;568;Vijayawada;44;India
+509;1;Raul;514;2006-02-14;1.0;110;Chapra;44;India
+510;2;Ben;515;2006-02-14;0.0;259;Kamyin;80;Russian Federation
+511;1;Chester;516;2006-02-14;1.0;502;Suihua;23;China
+512;1;Cecil;517;2006-02-14;1.0;312;London;102;United Kingdom
+513;2;Duane;519;2006-02-14;1.0;583;Yangor;65;Nauru
+514;2;Franklin;520;2006-02-14;1.0;594;Zaoyang;23;China
+515;1;Andre;521;2006-02-14;1.0;127;Coquimbo;22;Chile
+516;2;Elmer;522;2006-02-14;1.0;60;Battambang;18;Cambodia
+517;2;Brad;523;2006-02-14;1.0;116;Chungho;92;Taiwan
+518;1;Gabriel;524;2006-02-14;1.0;482;Sivas;97;Turkey
+519;2;Ron;525;2006-02-14;1.0;224;Isesaki;50;Japan
+520;2;Mitchell;526;2006-02-14;1.0;366;Nha Trang;105;Vietnam
+521;2;Roland;527;2006-02-14;1.0;588;Yingkou;23;China
+522;2;Arnold;528;2006-02-14;1.0;458;Santa Rosa;75;Philippines
+523;1;Harvey;529;2006-02-14;1.0;571;Vinh;105;Vietnam
+525;2;Adrian;531;2006-02-14;1.0;551;Udine;49;Italy
+526;2;Karl;532;2006-02-14;1.0;101;Cape Coral;103;United States
+527;1;Cory;533;2006-02-14;1.0;339;Mogiljov;13;Belarus
+528;1;Claude;534;2006-02-14;1.0;67;Benguela;4;Angola
+529;2;Erik;535;2006-02-14;1.0;75;Bhimavaram;44;India
+530;2;Darryl;536;2006-02-14;1.0;165;Ezeiza;6;Argentina
+531;2;Jamie;537;2006-02-14;1.0;287;Kuwana;50;Japan
+532;2;Neil;538;2006-02-14;1.0;100;Cam Ranh;105;Vietnam
+533;1;Jessie;539;2006-02-14;1.0;80;Binzhou;23;China
+534;1;Christian;540;2006-02-14;0.0;24;Amroha;44;India
+535;1;Javier;541;2006-02-14;1.0;363;NDjamna;21;Chad
+536;2;Fernando;542;2006-02-14;1.0;539;Tonghae;86;South Korea
+537;2;Clinton;543;2006-02-14;1.0;42;Aurora;103;United States
+538;2;Ted;544;2006-02-14;1.0;46;Baicheng;23;China
+539;1;Mathew;545;2006-02-14;1.0;561;Valencia;104;Venezuela
+540;1;Tyrone;546;2006-02-14;1.0;436;Ruse;17;Bulgaria
+541;2;Darren;547;2006-02-14;1.0;309;Livorno;49;Italy
+542;2;Lonnie;548;2006-02-14;1.0;396;Pangkal Pinang;45;Indonesia
+543;1;Lance;549;2006-02-14;1.0;68;Beni-Mellal;62;Morocco
+544;2;Cody;550;2006-02-14;1.0;485;So Bernardo do Campo;15;Brazil
+545;2;Julio;551;2006-02-14;1.0;275;Konotop;100;Ukraine
+546;1;Kelly;552;2006-02-14;1.0;462;Sanya;23;China
+547;1;Kurt;553;2006-02-14;1.0;260;Kanazawa;50;Japan
+548;1;Allan;554;2006-02-14;1.0;528;Tarlac;75;Philippines
+549;1;Nelson;555;2006-02-14;1.0;459;Santiago de Compostela;87;Spain
+550;2;Guy;556;2006-02-14;1.0;599;Zhoushan;23;China
+551;2;Clayton;557;2006-02-14;1.0;21;Alvorada;15;Brazil
+552;2;Hugh;558;2006-02-14;1.0;193;Haining;23;China
+553;1;Max;559;2006-02-14;1.0;368;Novi Sad;108;Yugoslavia
+554;1;Dwayne;560;2006-02-14;1.0;426;Rajkot;44;India
+555;1;Dwight;561;2006-02-14;1.0;112;Chatsworth;85;South Africa
+556;2;Armando;562;2006-02-14;1.0;496;Southport;102;United Kingdom
+557;1;Felix;563;2006-02-14;1.0;570;Vilnius;56;Lithuania
+558;1;Jimmie;564;2006-02-14;0.0;577;Wroclaw;76;Poland
+559;2;Everett;565;2006-02-14;1.0;79;Bilbays;29;Egypt
+560;1;Jordan;566;2006-02-14;1.0;43;Avellaneda;6;Argentina
+561;2;Ian;567;2006-02-14;1.0;178;Garland;103;United States
+562;1;Wallace;568;2006-02-14;1.0;488;Sokoto;69;Nigeria
+563;2;Ken;569;2006-02-14;1.0;95;Bucuresti;78;Romania
+564;2;Bob;570;2006-02-14;1.0;580;Xintai;23;China
+565;2;Jaime;571;2006-02-14;1.0;214;Hunuco;74;Peru
+566;1;Casey;572;2006-02-14;1.0;538;Tokat;97;Turkey
+567;2;Alfredo;573;2006-02-14;1.0;466;Serpuhov;80;Russian Federation
+568;2;Alberto;574;2006-02-14;1.0;55;Barcelona;104;Venezuela
+569;2;Dave;575;2006-02-14;1.0;299;Leshan;23;China
+570;2;Ivan;576;2006-02-14;1.0;341;Monclova;60;Mexico
+571;2;Johnnie;577;2006-02-14;1.0;409;Plock;76;Poland
+572;1;Sidney;578;2006-02-14;1.0;133;Czestochowa;76;Poland
+573;1;Byron;579;2006-02-14;1.0;598;Zhezqazghan;51;Kazakstan
+574;2;Julian;580;2006-02-14;1.0;10;Akishima;50;Japan
+575;2;Isaac;581;2006-02-14;1.0;131;Cuernavaca;60;Mexico
+576;2;Morris;582;2006-02-14;1.0;168;Fengshan;92;Taiwan
+577;2;Clifton;583;2006-02-14;1.0;526;Tanshui;92;Taiwan
+578;2;Willard;584;2006-02-14;1.0;103;Carmen;60;Mexico
+579;2;Daryl;585;2006-02-14;1.0;344;Mosul;47;Iraq
+580;1;Ross;586;2006-02-14;1.0;219;Iligan;75;Philippines
+581;1;Virgil;587;2006-02-14;1.0;246;Jos Azueta;60;Mexico
+582;2;Andy;588;2006-02-14;1.0;212;Huejutla de Reyes;60;Mexico
+583;1;Marshall;589;2006-02-14;1.0;494;Southampton;102;United Kingdom
+584;2;Salvador;590;2006-02-14;1.0;54;Banjul;37;Gambia
+585;1;Perry;591;2006-02-14;1.0;424;Quilmes;6;Argentina
+586;1;Kirk;592;2006-02-14;1.0;546;Tsaotun;92;Taiwan
+587;1;Sergio;593;2006-02-14;1.0;106;Celaya;60;Mexico
+588;1;Marion;594;2006-02-14;1.0;574;Weifang;23;China
+589;1;Tracy;595;2006-02-14;1.0;311;Loja;28;Ecuador
+590;2;Seth;596;2006-02-14;1.0;14;al-Manama;11;Bahrain
+591;1;Kent;597;2006-02-14;1.0;248;Juiz de Fora;15;Brazil
+592;1;Terrance;598;2006-02-14;0.0;512;Szkesfehrvr;43;Hungary
+593;2;Rene;599;2006-02-14;1.0;177;Garden Grove;103;United States
+594;1;Eduardo;600;2006-02-14;1.0;241;Jining;23;China
+595;1;Terrence;601;2006-02-14;1.0;242;Jinzhou;23;China
+596;1;Enrique;602;2006-02-14;1.0;401;Patras;39;Greece
+597;1;Freddie;603;2006-02-14;1.0;503;Sullana;74;Peru
+598;1;Wade;604;2006-02-14;1.0;296;Lausanne;91;Switzerland
+599;2;Austin;605;2006-02-14;1.0;537;Tieli;23;China
